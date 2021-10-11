@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#4562f4",
+    "titleBar.activeBackground": "#4562f4",
+    "titleBar.inactiveBackground": "#4562f4",
+    "statusBar.foreground": "#000",
+    "titleBar.inactiveForeground": "#000",
+    "titleBar.activeForeground": "#000",
+  },
+  "window.title": "Paw-fect Pal Backend"
+}
