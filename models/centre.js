@@ -6,7 +6,7 @@ const centreSchema = new mongoose.Schema({
   longitude: { type: Number, required: true, unique: true },
   name: { type: String, required: true, unique: true, maxlength: 200 },
   address: { type: String, required: true, unique: true, maxlength: 200 },
-  icon: { type: String, required: true, unique: false, default: '📍' },
+  icon: { type: String, required: true, unique: true },
 })
 
 centreSchema.plugin(mongooseUniqueValidator)

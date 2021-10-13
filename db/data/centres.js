@@ -5,7 +5,7 @@ export default [
     longitude: -1.07371,
     name: 'Dogs Trust London',
     address: '17 Wakley St, London EC1V 7RQ',
-    icon: '💗'
+    icon: '💗',
   },
 
   {
@@ -23,7 +23,6 @@ export default [
     address: '45 Primrose Ave, Enfield EN2 0SZ',
     icon: '💚',
   }
-
 
 
 ]
