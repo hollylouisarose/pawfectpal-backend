@@ -39,5 +39,6 @@ router.route('/profile')
 // * Centre routes
 
 router.get('/centres', centres.index )
+router.post('/centres/new', centres.create)
 
 export default router

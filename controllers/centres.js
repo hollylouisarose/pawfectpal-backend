@@ -16,6 +16,21 @@ async function centreIndex(_req, res, next){
 
 }
 
+//  * Add a centre
+
+
+async function addCentre(req, res, next){
+  
+  try {
+    const newCentre = await Centre.create(req.body)
+    return res.status(201).json(newCentre)
+  } catch (err) {
+    next(err)
+  }
+
+}
+
 export default {
   index: centreIndex,
+  create: addCentre,
 }
