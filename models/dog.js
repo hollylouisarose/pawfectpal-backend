@@ -1,8 +1,6 @@
 import  mongoose  from 'mongoose'
 import mongooseUniqueValidator from 'mongoose-unique-validator'
 
-// * Create your Schema here
-
 const commentSchema = new mongoose.Schema({
   text: { type: String, required: true, maxlength: 200 },
   addedBy: { type: mongoose.Schema.ObjectId, ref: 'User', required: true },
