@@ -130,7 +130,6 @@ async function dogDeleteComment(req, res, next){
       throw new NotFound()
     }
     const commentToDelete = await dog.comments.id(commentId)
-    console.log(commentToDelete)
     if (!commentToDelete){
       throw new NotFound()
     }
