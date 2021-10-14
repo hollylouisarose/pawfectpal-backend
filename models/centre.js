@@ -6,6 +6,7 @@ const centreSchema = new mongoose.Schema({
   longitude: { type: Number, required: true },
   name: { type: String, required: true, unique: true, maxlength: 200 },
   address: { type: String, required: true, unique: true, maxlength: 200 },
+  website: { type: String, required: true, maxlength: 500 },
   icon: { type: String, required: true },
 })
 

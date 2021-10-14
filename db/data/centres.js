@@ -6,6 +6,7 @@ export default [
     name: 'Dogs Trust London',
     address: '17 Wakley St, London EC1V 7RQ',
     icon: '💗',
+    website: 'https://www.dogstrust.org.uk/',
   },
 
   {
@@ -14,6 +15,7 @@ export default [
     name: 'Battersea Dogs & Cats Home',
     address: '4 Battersea Park Rd, Nine Elms, London SW8 4AA',
     icon: '🧡',
+    website: 'https://www.battersea.org.uk/',
   },
 
   {
@@ -22,6 +24,7 @@ export default [
     name: 'RSPCA Central, West & NE London Branch',
     address: '45 Primrose Ave, Enfield EN2 0SZ',
     icon: '💚',
+    website: 'https://www.rspca.org.uk/',
   },
 
   { 
@@ -30,6 +33,7 @@ export default [
     name: 'Dogs Trust Manchester', 
     address: 'Parkway, Denton, Manchester M34 3SG',
     icon: '💛', 
+    website: 'https://www.dogstrust.org.uk/',
   },
 
   { 
@@ -38,6 +42,7 @@ export default [
     name: 'Manchester & Cheshire Dogs Home', 
     address: 'Crofters House, Moss Brook Rd, Harpurhey, Manchester M9 5PG',
     icon: '💜', 
+    website: 'https://www.dogshome.net/',
   },
 
   { 
@@ -46,6 +51,7 @@ export default [
     name: 'RSPCA Brighton', 
     address: 'Braypool Ln, Patcham, Brighton BN1 8ZH',
     icon: '💙', 
+    website: 'https://www.rspca.org.uk/',
   },
 
   { 
@@ -54,6 +60,7 @@ export default [
     name: 'German Shepherd Rescue Hampshire', 
     address: '48 Edward Grove, Fareham, Hampshire, PO16 8JA',
     icon: '💕', 
+    website: 'https://www.german-shepherd-rescue-hampshire.org.uk/',
   },
 
   { 
@@ -62,6 +69,7 @@ export default [
     name: 'Greenleaf Animal Rescue', 
     address: '15 Queen Square, Leeds LS2 8AJ',
     icon: '🤎', 
+    website: 'https://www.greenleafanimalrescue.org.uk/',
   },
 
   { 
@@ -70,6 +78,7 @@ export default [
     name: 'Edinburgh Dog and Cat Home', 
     address: '26 Seafield Rd E, Edinburgh EH15 1EH',
     icon: '❤️', 
+    website: 'https://edch.org.uk/',
   },
 
   { 
@@ -78,6 +87,7 @@ export default [
     name: 'RSPCA York', 
     address: 'Landing Ln, York YO26 4RH',
     icon: '🌟', 
+    website: 'https://www.rspca.org.uk/',
   },
 
   { 
@@ -86,6 +96,7 @@ export default [
     name: 'Birmingham Dogs Home', 
     address: 'Catherine De Barnes Ln, Catherine-de-Barnes, Hampton in Arden, Solihull B92 0DJ',
     icon: '☀️', 
+    website: 'https://www.birminghamdogshome.org.uk/',
   },
 
   { 
@@ -93,7 +104,8 @@ export default [
     longitude: -2.573080,
     name: 'Bristol Dogs And Cats Home', 
     address: '50 Albert Rd, Bristol BS2 0XW',
-    icon: '💫', 
+    icon: '💫',
+    website: 'https://www.bristolarc.org.uk/',
   },
 
   { 
@@ -102,6 +114,7 @@ export default [
     name: 'Dogs Trust Ireland', 
     address: 'Ashbourne Road, Finglas, Dublin 11, Co. Dublin, Ireland',
     icon: '🌱', 
+    website: 'https://www.dogstrust.org.uk/',
   },
 
   { 
@@ -110,6 +123,7 @@ export default [
     name: 'National Animal Welfare Trust', 
     address: 'Wheal Alfred Kennels, Wheal Alfred Rd, Hayle TR27 5JT',
     icon: '🌊', 
+    website: 'https://www.nawt.org.uk/',
   },
 
   { 
@@ -118,6 +132,7 @@ export default [
     name: 'Hope Rescue Centre', 
     address: 'Llanharry Rd, Llanharan, Pontyclun CF72 9NH',
     icon: '🌈', 
+    website: 'https://www.hoperescue.org.uk/dogs-for-adoption',
   }
 
 ]
