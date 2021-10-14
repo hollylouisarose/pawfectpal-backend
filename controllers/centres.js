@@ -18,7 +18,6 @@ async function centreIndex(_req, res, next){
 
 //  * Add a centre
 
-
 async function addCentre(req, res, next){
   
   try {
@@ -29,6 +28,8 @@ async function addCentre(req, res, next){
   }
 
 }
+
+
 
 export default {
   index: centreIndex,

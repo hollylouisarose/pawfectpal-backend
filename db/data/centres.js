@@ -22,7 +22,102 @@ export default [
     name: 'RSPCA Central, West & NE London Branch',
     address: '45 Primrose Ave, Enfield EN2 0SZ',
     icon: '💚',
-  }
+  },
 
+  { 
+    latitude: 53.453290, 
+    longitude: -2.133560,
+    name: 'Dogs Trust Manchester', 
+    address: 'Parkway, Denton, Manchester M34 3SG',
+    icon: '💛', 
+  },
+
+  { 
+    latitude: 53.508860,
+    longitude: -2.207990,
+    name: 'Manchester & Cheshire Dogs Home', 
+    address: 'Crofters House, Moss Brook Rd, Harpurhey, Manchester M9 5PG',
+    icon: '💜', 
+  },
+
+  { 
+    latitude: 50.870440,
+    longitude: -0.157150,
+    name: 'RSPCA Brighton', 
+    address: 'Braypool Ln, Patcham, Brighton BN1 8ZH',
+    icon: '💙', 
+  },
+
+  { 
+    latitude: 50.853270,
+    longitude: -1.118190,
+    name: 'German Shepherd Rescue Hampshire', 
+    address: '48 Edward Grove, Fareham, Hampshire, PO16 8JA',
+    icon: '💕', 
+  },
+
+  { 
+    latitude: 53.803650,
+    longitude: -1.545670,
+    name: 'Greenleaf Animal Rescue', 
+    address: '15 Queen Square, Leeds LS2 8AJ',
+    icon: '🤎', 
+  },
+
+  { 
+    latitude: 55.963930,
+    longitude: -3.130020,
+    name: 'Edinburgh Dog and Cat Home', 
+    address: '26 Seafield Rd E, Edinburgh EH15 1EH',
+    icon: '❤️', 
+  },
+
+  { 
+    latitude: 53.965450,
+    longitude: -1.112160,
+    name: 'RSPCA York', 
+    address: 'Landing Ln, York YO26 4RH',
+    icon: '🌟', 
+  },
+
+  { 
+    latitude: 52.435680,
+    longitude: -1.728440,
+    name: 'Birmingham Dogs Home', 
+    address: 'Catherine De Barnes Ln, Catherine-de-Barnes, Hampton in Arden, Solihull B92 0DJ',
+    icon: '☀️', 
+  },
+
+  { 
+    latitude: 51.443750,
+    longitude: -2.573080,
+    name: 'Bristol Dogs And Cats Home', 
+    address: '50 Albert Rd, Bristol BS2 0XW',
+    icon: '💫', 
+  },
+
+  { 
+    latitude: 54.599780,
+    longitude: -7.298570,
+    name: 'Dogs Trust Ireland', 
+    address: 'Ashbourne Road, Finglas, Dublin 11, Co. Dublin, Ireland',
+    icon: '🌱', 
+  },
+
+  { 
+    latitude: 50.171340,
+    longitude: -5.386240,
+    name: 'National Animal Welfare Trust', 
+    address: 'Wheal Alfred Kennels, Wheal Alfred Rd, Hayle TR27 5JT',
+    icon: '🌊', 
+  },
+
+  { 
+    latitude: 51.530111,
+    longitude: -3.445060,
+    name: 'Hope Rescue Centre', 
+    address: 'Llanharry Rd, Llanharan, Pontyclun CF72 9NH',
+    icon: '🌈', 
+  }
 
 ]
